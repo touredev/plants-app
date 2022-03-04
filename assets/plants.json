@@ -1,0 +1,55 @@
+{
+  "plants": [
+    {
+      "id": "p1",
+      "name": "Lyrata",
+      "country": "Côte d'Ivoire",
+      "price": 14.45,
+      "image": "image_1.png",
+      "recommended": true,
+      "description": "Ficus Lyrata, commonly known as the fiddle-leaf fig, is a species of flowering plant in the mulberry and fig family Moraceae. It is native to western Africa, from Cameroon west to Sierra Leone, where it grows in lowland tropical rainforest. It can grow up to 12–15 m (39–49 ft) tall."
+    },
+    {
+      "id": "p2",
+      "name": "Adansonii",
+      "country": "Chile",
+      "price": 8.45,
+      "image": "image_2.png",
+      "recommended": true,
+      "description": "Monstera adansonii, the Adanson's monstera, Swiss cheese plant, or five holes plant, is a species of flowering plant from family Araceae which is widespread across much of South America and Central America"
+    },
+    {
+      "id": "p3",
+      "name": "Silver Dragon",
+      "country": "Philippines",
+      "price": 23.45,
+      "image": "image_3.png",
+      "recommended": true,
+      "description": "Alocasia 'Silver Dragon' is a flowering plant of the Araceae family, typically grown for its distinctive 'elephant ear' foliage. A cultivated species, it makes an excellent houseplant and will tolerate a wide range of growing conditions."
+    },
+    {
+      "id": "p4",
+      "name": "Green Fantasy",
+      "country": "Cuba",
+      "price": 32.0,
+      "image": "image_3.png",
+      "description": "Nephrolepis exaltata 'Green Fantasy', known as the sword fern or Boston fern, is a species of fern in the family Lomariopsidaceae (sometimes treated in the families Davalliaceae or Oleandraceae, or in its own family, Nephrolepidaceae) native to tropical regions throughout the world. This evergreen plant can reach as high as 40–90 centimetres (16–35 in), and in extreme cases up to 1.5 metres (4 ft 11 in)."
+    },
+    {
+      "id": "p5",
+      "name": "Prince of Orange",
+      "country": "Costa Rica",
+      "price": 17.45,
+      "image": "image_3.png",
+      "description": "The Philodendron Prince of Orange, also called Philodendron Tricolor and Orange Prince, is a tropical plant grown indoors. It’s easily recognizable for its large, uniquely hued leaves that change color over time."
+    },
+    {
+      "id": "p6",
+      "name": "Fernwood Mikado",
+      "country": "Angola",
+      "price": 41.45,
+      "image": "image_3.png",
+      "description": "This variety of Sansevieria is particular because of the shape of its leaves which roll inwards and its flared habit. Its foliage is green streaked with white vertically. She has a lot of sparkle. Leaves poisonous if ingested."
+    }
+  ]
+}
